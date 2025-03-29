@@ -1,0 +1,22 @@
+.add-style {
+    width: 800px;
+    text-align: center;
+    margin: auto;
+    border: solid;
+    background-image: linear-gradient(#DFD7BF, #F5F5F5, #DFD7BF);
+    font-size: 1.6em;
+    padding: 20px 40px;
+    font-family: papyrus;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+    margin: 10px auto;
+    gap: 10px;
+}
+button {
+    background-color: #3F2305;
+    color: #F5F5F5;
+    padding: 10px 20px;
+}
